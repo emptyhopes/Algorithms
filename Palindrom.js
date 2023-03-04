@@ -15,4 +15,9 @@ function palindrom(value) {
   return true;
 }
 
+function palindrom2(value) {
+  if (value.toLowerCase() === value.toLowerCase().split("").reverse().join("")) return true;
+  else return false;
+}
+
 console.log(palindrom("aaaZzAaA"));
