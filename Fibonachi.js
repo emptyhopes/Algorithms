@@ -1,3 +1,5 @@
+"use strict";
+
 const fibonachi = (value) => {
   if (typeof value !== "number") return undefined;
   if (value < 0) return undefined;

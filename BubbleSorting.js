@@ -1,3 +1,5 @@
+"use strict";
+
 function BubbleSorting(array) {
   let count = 0;
 

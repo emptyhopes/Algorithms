@@ -1,3 +1,5 @@
+"use strict";
+
 function SelectionSorting(array) {
   let count = 0;
 

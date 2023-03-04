@@ -1,3 +1,5 @@
+"use strict";
+
 const Tree = (tree) => {
   const stack = [];
 

@@ -1,3 +1,5 @@
+"use strict";
+
 function LinearSearch(array, value) {
   let count = 0;
 

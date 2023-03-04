@@ -1,3 +1,5 @@
+"use strict";
+
 function BinarySearch(array, value) {
   if (typeof value !== "number") return undefined;
 

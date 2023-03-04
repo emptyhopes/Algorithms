@@ -1,3 +1,5 @@
+"use strict";
+
 const factorial = (value) => {
   if (typeof value !== "number") return undefined;
   if (value < 1) return undefined;

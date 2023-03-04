@@ -1,3 +1,5 @@
+"use strict";
+
 const graph = {
   a: { b: 2, c: 1 },
   b: { f: 7 },
